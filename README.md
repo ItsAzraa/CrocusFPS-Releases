@@ -1,2 +1,3 @@
-# CrocusFPS Releases
-Publiczne wydania CrocusFPS (installer + podpis). Kod źródłowy jest w osobnym prywatnym repozytorium.
+CrocusFPS
+
+Wydania. Kod jest w innym repo.
